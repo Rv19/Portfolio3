@@ -6,10 +6,10 @@ class Resume extends Component{
     render(){
         return(
             
-            <div class="container" style={{width: '100%', margin: 'auto'}}>
-            <div class="wrapper" style={{width: '100%', margin: 'auto'}}>
+            <div class="container " style={{width: '100%', margin: 'auto'}}>
+            <div class="wrapper landing-grid" style={{width: '100%', margin: 'auto'}}>
 		<div class="resume" style={{width: '100%', margin: 'auto'}}>
-			<div class="left" >
+			<div class="left" ><br/><br/><br/>
 				<div class="img_holder">
 					<img src="Rohit.png" alt="picture"/>
 				</div>
@@ -116,7 +116,7 @@ class Resume extends Component{
 			<div class="right">
 				<div class="header">
 					<div class="name_role">
-                        <br/>
+                        <br/><br/><br/><br/><br/>
 						<div class="name">
 							Rohit Yadav
 						</div><br/><br/>
