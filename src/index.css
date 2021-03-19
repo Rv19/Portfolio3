@@ -4,17 +4,6 @@ body {
   font-family: sans-serif;
 }
 
-*{
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	box-sizing: border-box;
-	font-family: 'Ubuntu', sans-serif;
-}
-
-body{
-	background: linear-gradient(to right, #3525af, #9153c9);
-}
 
 .resume{
 	width: 800px;
